@@ -1,2 +1,3 @@
-# SyebenyiArpad.github.io
+# SzebenyiArpad.github.io
+
 Demo page for Ujratervezés project
